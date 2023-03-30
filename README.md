@@ -1,4 +1,6 @@
-# NetWebApiMinimal01 🔧
+# .Net Web Api Minimal 🔧
+
+## Un Api Web con lo minimo necesario para construir tu API
 
 Este es un proyecto de ejemplo que muestra cómo crear una API web en ASP.NET Core utilizando el enfoque de "Minimal APIs". En este proyecto se incluye un ejemplo de cómo definir rutas de API, utilizar la inyección de dependencias y trabajar con una base de datos SQLite 🚀.
 
