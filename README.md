@@ -33,7 +33,7 @@ El proyecto se organiza de la siguiente manera:
 ## Program.cs
 
 ``` C#
-// Importación de los paquetes y librerías necesarios para crear la aplicación web
+// Importación de los paquetes y librerías necesarios para crear la aplicación web 
 // * Microsoft.EntityFrameworkCore: Esel marco de trabajo ORM (Object-Relational Mapping) que permite interactuar con bases de datos relacionales utilizando
 //   objetos en lugar de código SQL.
 // * MinimalApi: La Api (proyecto) sobre el que estamos trabajando
@@ -82,7 +82,7 @@ app.MapGet("/hello", (string name) => $"Hola {name}");
 // Edpoint que recibe dos parámetros
 app.MapGet("/hellowithname/{name}/{lastname}",
 (string name, string lastname) =>
-    $"Hola {name} {lastname}"
+    $"Hi {name} {lastname}"
 );
 
 // Este endpoint hace una solicitud Get Asycrona al API de https://jsonplaceholder.typicode.com/todos
