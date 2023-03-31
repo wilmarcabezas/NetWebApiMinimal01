@@ -30,7 +30,7 @@ El proyecto se organiza de la siguiente manera:
 - `Data/NetCoreDbContext.cs` - Clase de contexto para la base de datos SQLite.
 - `Models/Person.cs` - Modelo de datos para una persona.
 
-## Program.cs
+## Clase: Program.cs 
 
 ``` C#
 // Importación de los paquetes y librerías necesarios para crear la aplicación web 
