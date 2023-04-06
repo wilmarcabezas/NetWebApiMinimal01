@@ -11,7 +11,7 @@ Para ejecutar este proyecto, necesitará tener instalado lo siguiente:
 - .NET 6 SDK 🛠️
 - Visual Studio Code u otro editor de código 💻
 
-## Ejecución del proyecto ▶️
+## Ejecución del proyecto: ▶️
 
 Para ejecutar este proyecto, siga estos pasos:
 
