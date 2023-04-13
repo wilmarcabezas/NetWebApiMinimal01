@@ -1,4 +1,4 @@
-# .Net Web Api Minimal 🔧 (.Net Core)
+# .Net Web Api Minimal 🔧 (.Net Core).
 
 ## Un Api Web con lo minimo necesario para construir tu API
 
